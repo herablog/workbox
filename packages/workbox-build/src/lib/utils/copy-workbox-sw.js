@@ -3,7 +3,7 @@ const fse = require('fs-extra');
 const path = require('path');
 
 module.exports = (outputDirectory) => {
-  const workboxSWSrcPath = require.resolve('workbox-sw');
+  const workboxSWSrcPath = require.resolve('@herablog/workbox-sw');
   const workboxSWDestPath = path.join(outputDirectory,
     path.basename(workboxSWSrcPath));
   return fse.copy(workboxSWSrcPath, workboxSWDestPath)
