@@ -1,5 +1,5 @@
 {
-  "name": "workbox-cacheable-response",
+  "name": "@herablog/workbox-cacheable-response",
   "version": "1.1.0",
   "description": "This library takes a Response object and determines whether it's cacheable based on a specific configuration.",
   "keywords": [

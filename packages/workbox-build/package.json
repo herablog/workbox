@@ -1,5 +1,5 @@
 {
-  "name": "workbox-build",
+  "name": "@herablog/workbox-build",
   "version": "1.1.0",
   "description": "A module that integrates into your build process, helping you generate a manifest of local files that workbox-sw should precache.",
   "keywords": [

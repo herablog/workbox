@@ -1,5 +1,5 @@
 {
-  "name": "workbox-webpack-plugin",
+  "name": "@herablog/workbox-webpack-plugin",
   "version": "1.1.0",
   "description": "A plugin for your Webpack build process, helping you generate a manifest of local files that workbox-sw should precache.",
   "keywords": [

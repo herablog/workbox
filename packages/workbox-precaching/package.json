@@ -1,5 +1,5 @@
 {
-  "name": "workbox-precaching",
+  "name": "@herablog/workbox-precaching",
   "version": "1.1.0",
   "description": "A lower-level server worker library to precache a manifest of URLs.",
   "keywords": [

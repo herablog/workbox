@@ -1,5 +1,5 @@
 {
-  "name": "workbox-sw",
+  "name": "@herablog/workbox-sw",
   "version": "1.1.0",
   "description": "A service worker library to make managing fetch requests and caching as easy as possible.",
   "keywords": [
