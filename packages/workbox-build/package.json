@@ -32,6 +32,6 @@
     "glob": "^7.1.1",
     "lodash.template": "^4.4.0",
     "mkdirp": "^0.5.1",
-    "workbox-sw": "^1.1.0"
+    "@herablog/workbox-sw": "^1.1.0"
   }
 }

@@ -23,7 +23,7 @@
     "node": ">=4.0.0"
   },
   "dependencies": {
-    "workbox-build": "^1.1.0"
+    "@herablog/workbox-build": "^1.1.0"
   },
   "author": "Google's Web DevRel Team",
   "license": "Apache-2.0",

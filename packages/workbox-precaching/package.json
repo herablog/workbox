@@ -24,8 +24,8 @@
   "bugs": "https://github.com/googlechrome/workbox/issues",
   "homepage": "https://github.com/GoogleChrome/workbox/tree/master/packages/workbox-precaching",
   "devDependencies": {
-    "workbox-routing": "^1.1.0",
-    "workbox-runtime-caching": "^1.1.0"
+    "@herablog/workbox-routing": "^1.1.0",
+    "@herablog/workbox-runtime-caching": "^1.1.0"
   },
   "main": "build/importScripts/workbox-precaching.prod.v1.0.0.js",
   "module": "build/modules/workbox-precaching.prod.v1.0.0.mjs"

@@ -24,6 +24,6 @@
   "main": "build/importScripts/workbox-cache-expiration.prod.v1.0.0.js",
   "module": "build/modules/workbox-cache-expiration.prod.v1.0.0.mjs",
   "devDependencies": {
-    "workbox-runtime-caching": "^1.1.0"
+    "@herablog/workbox-runtime-caching": "^1.1.0"
   }
 }

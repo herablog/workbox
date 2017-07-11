@@ -35,6 +35,6 @@
     "lodash.template": "^4.4.0",
     "meow": "^3.7.0",
     "update-notifier": "^1.0.3",
-    "workbox-build": "^1.1.0"
+    "@herablog/workbox-build": "^1.1.0"
   }
 }
